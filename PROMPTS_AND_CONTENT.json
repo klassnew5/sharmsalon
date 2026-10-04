@@ -1,0 +1,230 @@
+{
+  "seo": {
+    "title": "Салон красоты Шарм: стильные стрижки и уход",
+    "description": "Стильные стрижки, окрашивание и уход от профессионалов! Запишитесь онлайн прямо сейчас."
+  },
+  "brand": {
+    "name": "Шарм",
+    "industry": "салон красоты",
+    "slogan": "Красота рядом с тобой",
+    "colors": "красный, чёрный",
+    "logo_style": "минимализм"
+  },
+  "hero": {
+    "title": "Улыбка профессионализма",
+    "subtitle": "Прими лучшее предложение!",
+    "description": "Мы создаём красоту и комфорт, чтобы ты чувствовал себя уверенно каждый день.",
+    "cta_text": "Записаться"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают нас?",
+      "content": "Выбирайте комфорт и профессионализм! Мы заботимся о каждом госте индивидуально.",
+      "features": [
+        "Индивидуальный подход к каждому гостю",
+        "Современные технологии и материалы",
+        "Опытные мастера с высокой квалификацией"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем",
+      "items": [
+        {
+          "name": "Стрижки и укладки",
+          "description": "Создадим образ вашей мечты!"
+        },
+        {
+          "name": "Окрашивание волос",
+          "description": "Натуральные оттенки и яркие акценты"
+        },
+        {
+          "name": "Уход за волосами",
+          "description": "Интенсивное восстановление и здоровье волос"
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Консультация и подбор стиля",
+          "description": "Определим ваш идеальный образ вместе"
+        },
+        {
+          "step": "*2*",
+          "name": "Подготовка и процедура",
+          "description": "Используем современные инструменты и средства"
+        },
+        {
+          "step": "*3*",
+          "name": "Завершение процедуры",
+          "description": "Закрепляем результат и даём рекомендации"
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "Наши мастера",
+      "content": "В нашем салоне работают только профессионалы своего дела.",
+      "items": [
+        {
+          "name": "Мария Соловьёва",
+          "description": "Топ-стилист, 10 лет опыта"
+        },
+        {
+          "name": "Екатерина Попова",
+          "description": "Мастер маникюра"
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзывы гостей",
+      "items": [
+        {
+          "name": "Ольга Смирнова",
+          "text": "Обожаю приходить сюда! Стильно и качественно."
+        },
+        {
+          "name": "Иван Кузнецов",
+          "text": "Мужская парикмахерская на высшем уровне!"
+        },
+        {
+          "name": "Екатерина Лебедева",
+          "text": "Волосы стали блестящими после ухода!"
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Цены",
+      "items": [
+        {
+          "name": "Стрижка",
+          "price": "*1500 ₽*",
+          "description": "Женская или мужская стрижка"
+        },
+        {
+          "name": "Маникюр",
+          "price": "*1800 ₽*",
+          "description": "Маникюр с покрытием гель-лак"
+        },
+        {
+          "name": "Комплекс",
+          "price": "*5500 ₽*",
+          "description": "Стрижка, маникюр, укладка"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие услуги вы предлагаете?",
+          "answer": "Предлагаем стрижки, окрашивания и уход за волосами"
+        },
+        {
+          "question": "Можно ли записаться онлайн?",
+          "answer": "Да, запись доступна через наш сайт или приложение"
+        },
+        {
+          "question": "Какие техники окрашивания вы используете?",
+          "answer": "Используем натуральные красители и современные техники окрашивания"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Твой путь начинается здесь",
+      "prompt": "young beautiful female beauty salon administrator holding notebook and pen, standing in modern bright salon interior, friendly smile, white elegant uniform, slavic person, medium shot, no hands close-up, sharp focus, ultra high quality, 8k, professional photo"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и качество",
+      "prompt": "elegant massage room in modern beauty salon, massage table with towels, soft lighting, candles, cozy atmosphere, no people, interior photography, sharp focus, 8k"
+    },
+    {
+      "id": "services",
+      "caption": "Профессиональный подход",
+      "prompt": "elegant beauty salon work table with professional cosmetics, makeup brushes, perfume bottles, mirror in background, empty table without hands, no people, no hands, no fingers, interior photography, sharp focus, ultra high quality, 8k"
+    },
+    {
+      "id": "team",
+      "caption": "Наши мастера",
+      "prompt": "team of three beauty professionals, two women and one man, in elegant uniform, standing full body, smiling, salon background, slavic people, arms relaxed, sharp focus, ultra high quality, 8k"
+    },
+    {
+      "id": "process",
+      "caption": "Как мы работаем",
+      "prompt": "young female hairdresser doing styling for client in modern beauty salon, medium shot, bright elegant interior, slavic people, sharp focus, ultra high quality, 8k, professional photo"
+    }
+  ],
+  "privacy_policy": "Настоящая политика конфиденциальности описывает порядок сбора, обработки и защиты персональных данных посетителей сайта салона красоты Шарм. Собираются только необходимые данные: имя, номер телефона, адрес электронной почты. Персональные данные не передаются третьим лицам.",
+  "footer": {
+    "copyright": "© 2025 Шарм",
+    "contacts": {
+      "email": "info@sharm.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*9*",
+      "label": "лет"
+    },
+    {
+      "number": "*4700*",
+      "label": "клиентов"
+    },
+    {
+      "number": "*14*",
+      "label": "мастеров"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва",
+    "map_query": "Москва",
+    "working_hours": "9:00-21:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "process": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">S</text>\n        </svg>"
+}
